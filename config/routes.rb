@@ -1,7 +1,7 @@
 Firstapp::Application.routes.draw do
   get "front_pages/home"
-
   get "front_pages/help"
+  get "front_pages/about"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
